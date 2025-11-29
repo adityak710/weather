@@ -1,0 +1,8 @@
+{
+  "Delhi":  { "temp": 25, "humidity": 40, "wind": 10, "condition": "Sunny" },
+  "Mumbai": { "temp": 29, "humidity": 70, "wind": 6, "condition": "Humid" },
+  "Chennai": { "temp": 31, "humidity": 55, "wind": 8, "condition": "Hot" },
+  "Kolkata": { "temp": 27, "humidity": 65, "wind": 12, "condition": "Cloudy" },
+  "Bangalore": { "temp": 22, "humidity": 50, "wind": 9, "condition": "Pleasant" },
+  "Hyderabad": { "temp": 28, "humidity": 45, "wind": 11, "condition": "Clear" }
+}
